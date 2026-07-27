@@ -1,6 +1,6 @@
 # Acortador de Videos para WhatsApp
 
-Una herramienta gráfica desarrollada en Python para dividir videos automáticamente en partes iguales, asegurando que ninguna partición exceda un límite de tamaño específico (por ejemplo, el límite de 63 MB de WhatsApp).
+Una herramienta gráfica desarrollada en Python para dividir videos automáticamente en partes iguales, asegurando que ninguna partición exceda un límite de tamaño específico en mB
 
 **Autor:** Alan Lobos Román  
 **Versión:** 3.0 - Arquitectura Modular y UI Avanzada  
